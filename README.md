@@ -3,4 +3,4 @@ This is the Amazon clone project made with HTML and CSS, further changes are yet
 <br>
 Author- Muhammad Zubair Afridi.
 <br>
-Started 10-09-2024.
+Started 10-09-2024. updating again
